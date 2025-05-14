@@ -1,0 +1,19 @@
+﻿{"frames": {
+
+"homepage":
+{
+	"frame": {"x":0,"y":0,"w":751,"h":1624},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":751,"h":1624},
+	"sourceSize": {"w":751,"h":1624}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "24.0.9.73",
+	"image": "demo2_html_atlas_2.png",
+	"format": "undefined",
+	"size": {"w":1024,"h":2048},
+	"scale": "1"
+}
+}
